@@ -2,7 +2,8 @@
 %
 % This script uses the nomenclature, formulations and solutions from:
 %   M. Avillez and D. Arnas, "Constructing Linear Operators Using Classical 
-%   Perturbation Theory", TODO
+%   Perturbation Theory", Journal of Guidance, Control, and Dynamics, 2025. 
+%   https://doi.org/10.2514/1.G008683
 % 
 % Summary:
 %   Computes the J2-perturbed frequency of the solution, using the

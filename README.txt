@@ -1,6 +1,7 @@
 This repository contains the source-code describing the formulations and solutions in
 	M. Avillez and D. Arnas, "Constructing Linear Operators Using Classical 
-    Perturbation Theory", TODO
+    Perturbation Theory", Journal of Guidance, Control, and Dynamics, 2025. 
+	https://doi.org/10.2514/1.G008683
 
 Each of the main files (listed below) imports the linear operator "M" and the array "mons"
 (describing the basis functions associated with "M") from data files. These are then used
